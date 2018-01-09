@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\EncodingDemo\EncodingDemo\bin\EncodingDemo.dll
+C:\Users\Administrator\Desktop\EncodingDemo\EncodingDemo\bin\EncodingDemo.pdb
+C:\Users\Administrator\Desktop\EncodingDemo\EncodingDemo\obj\Debug\EncodingDemo.dll
+C:\Users\Administrator\Desktop\EncodingDemo\EncodingDemo\obj\Debug\EncodingDemo.pdb
+G:\AX\EncodingDemo\EncodingDemo\bin\EncodingDemo.dll
+G:\AX\EncodingDemo\EncodingDemo\bin\EncodingDemo.pdb
+G:\AX\EncodingDemo\EncodingDemo\obj\Debug\EncodingDemo.dll
+G:\AX\EncodingDemo\EncodingDemo\obj\Debug\EncodingDemo.pdb
