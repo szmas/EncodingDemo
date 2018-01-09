@@ -22,7 +22,7 @@ namespace EncodingDemo
 
 
                 string downloadName = "绩效月报.xls";
-                if (Request.Browser.Browser == "InternetExplorer")
+                if (Request.Browser.Browser == "InternetExplorer" || Request.Browser.Browser == "IE")
                     downloadName = HttpUtility.UrlPathEncode(downloadName);
 
                 Response.ContentType = "application/excel";
